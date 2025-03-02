@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ph50650_kiemThu:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Ph50650_kiemThu</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Ph50650_kiemThu-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Ph50650_kiemThu:war exploded" />
+    </root>
+  </artifact>
+</component>
